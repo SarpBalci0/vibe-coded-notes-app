@@ -1,0 +1,22 @@
+**package.json**:
+    express:
+        What it is: A web framework for Node.js
+        Why we need it: Makes it easy to create a web server and API endpoints
+        What it does:
+            Handles HTTP requests (GET, POST, DELETE)
+            Routes requests to the right code
+            Sends responses back to the frontend
+    sqlite:
+        database driver
+    cors:
+        What it is: Cross-Origin Resource Sharing middleware
+        Why we need it: Browsers block requests between different ports by default
+        What it does:
+            Our React app runs on localhost:3000
+            Our backend runs on localhost:3001
+            CORS allows them to communicate
+Install dependencies: Run npm install to download the libraries inside the package.json. 
+Result: A node_modules folder appears with all the code we need
+Purpose: Sets up the foundation so your backend can create a web server, talk to a database, and communicate with your frontend
+
+**
