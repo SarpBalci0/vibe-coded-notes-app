@@ -52,10 +52,10 @@ CREATE TABLE notes (
 - [x] **Step 2**: Create basic server.js structure
   - Setup Express server on port 3001
   - Add CORS for frontend communication
-- [ ] **Step 3**: Setup SQLite database
+- [x] **Step 3**: Setup SQLite database
   - Create connection to database.db
   - Create `notes` table if it doesn't exist
-- [ ] **Step 4**: Create 3 API endpoints
+- [x] **Step 4**: Create 3 API endpoints
   - `GET /api/notes` - Get all notes
   - `POST /api/notes` - Add a new note
   - `DELETE /api/notes/:id` - Delete a note by ID
