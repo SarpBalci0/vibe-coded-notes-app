@@ -61,22 +61,22 @@ CREATE TABLE notes (
   - `DELETE /api/notes/:id` - Delete a note by ID
 
 ### Phase 2: Frontend Setup (React App)
-- [ ] **Step 5**: Setup frontend package.json with dependencies
+- [x] **Step 5**: Setup frontend package.json with dependencies
   - Install: `axios` for API calls
-- [ ] **Step 6**: Create basic React App structure
+- [x] **Step 6**: Create basic React App structure
   - Setup state for notes list and input field
   - Create simple form to add notes
   - Display notes in a list
-- [ ] **Step 7**: Connect frontend to backend
+- [x] **Step 7**: Connect frontend to backend
   - Use axios to call your 3 API endpoints
   - Handle loading and errors simply
 
 ### Phase 3: Testing & Polish
-- [ ] **Step 8**: Test the full flow
+- [x] **Step 8**: Test the full flow
   - Start backend server: `node server.js`
   - Start frontend: `npm start` in client folder
   - Test: Add note → See in list → Delete note
-- [ ] **Step 9**: Add basic styling (optional)
+- [x] **Step 9**: Add basic styling (optional)
   - Simple CSS to make it look clean
 
 ---
