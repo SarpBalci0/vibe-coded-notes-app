@@ -92,24 +92,3 @@ notes-app/
 │   └── package.json
 └── package.json   # For backend
 ```
-
----
-
-## 💡 Learning Goals
-
-After completing this project, you'll understand:
-- How frontend talks to backend (HTTP requests)
-- How backend talks to database (SQL queries)
-- How data flows: React → Express → SQLite → Express → React
-- Basic CRUD operations (Create, Read, Delete)
-- How to structure a full-stack project
-
----
-
-## 🚀 Getting Started
-
-When you're ready to start coding:
-1. Ask me to help with **Step 1** from the checklist
-2. We'll go through each step together
-3. I'll explain what each piece does and why
-4. You'll learn by doing, one step at a time!
